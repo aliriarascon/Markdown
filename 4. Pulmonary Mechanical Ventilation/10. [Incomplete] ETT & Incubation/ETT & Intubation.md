@@ -29,7 +29,7 @@ Which of the following is not a method of confirming correct positioning of an e
 
 [WRONG] End tidal CO2 detector
 [RIGHT] Asking patient to speak
-[WRONG] Breath sounds
+[WRONG] Auscultation of breath sounds
 [WRONG] Chest x-ray
 
 # Question 5
