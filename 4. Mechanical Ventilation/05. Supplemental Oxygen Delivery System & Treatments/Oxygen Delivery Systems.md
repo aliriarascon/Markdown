@@ -1,6 +1,6 @@
 ## Low-Flow Oxygen Delivery Systems
 
-![](assets/no_aerosol.png)
+![](assets/no_aerosol.png) ---> this picture doesn't match now-- need a picture of only low flow devices 
 
 Used for patients that need supplemental oxygen and have sufficient respiratory drive (breathing on their own)
 #### Nursing Implications for Low-Flow Systems
